@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript">
+	window.onload = function(){
+		var btn = document.getElementById('btn');
+		var div = document.getElementById('div');
+		var un = document.getElementById('username');
+		var pw = document.getElementById('password');
+		var rw = document.getElementById('repasswd');
+		var ma = document.getElementById('mail');
+		btn.onclick = function(){
+			var str = 'username=' + un.value + '&' + 'password=' + pw.value + '&' + 'repasswd=' + rw.value + '&' + 'mail=' + ma.value;
+			var xml = new XMLHttpRequest();	
+			xml.open('POST','http://localhost/frame/index.php/Index/index',true);
+			xml.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
+			xml.onreadystatechange = function(){
+				if (this.readyState == 4) {
+					window.location.href= this.responseText;
+					// div.innerHTML = '<xmp>' + this.responseText + '</xmp>';
+					// document.write(this.responseXML);
+					// alert(this.responseText);
+				}
+			}
+			xml.send(str);//发送数据
+		}
+	}
+		
+	</script>
+</head>
+<body>
+	<form action="" method="post">
+		用户名：<input type="text" name="username" id="username"><br>
+		密　码：<input type="text" name="password" id="password"><br>
+		密　码：<input type="password" name="repasswd" id="repasswd"><br>
+		邮　箱：<input type="text" name="mail" id="mail"><br>
+		<input type="button" value="提交" id="btn"><br>
+	</form>
+	<div id="div"></div>
+</body>
+</html>

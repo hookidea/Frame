@@ -1,0 +1,72 @@
+[ 2015-12-03 14:12:03 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Call to a member function query() on a non-object
+
+[ 2015-12-03 14:18:31 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Call to undefined function in_get()
+
+[ 2015-12-03 14:31:57 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Call to undefined method Memcached::connect()
+
+[ 2015-12-03 14:32:26 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Call to undefined method Memcached::connect()
+
+[ 2015-12-03 14:32:41 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'Memcache' not found
+
+[ 2015-12-03 14:34:11 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'Memcache' not found
+
+[ 2015-12-03 14:34:12 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'Memcache' not found
+
+[ 2015-12-03 14:34:14 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'Memcache' not found
+
+[ 2015-12-03 14:34:14 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'Memcache' not found
+
+[ 2015-12-03 14:35:13 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'Memcache' not found
+
+[ 2015-12-03 14:35:16 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'Memcache' not found
+
+[ 2015-12-03 14:35:30 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'Memcache' not found
+
+[ 2015-12-03 15:02:34 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'DbMysql' not found
+
+[ 2015-12-03 15:14:07 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Class 'DbMysql' not found
+
+[ 2015-12-03 16:17:42 ] 127.0.0.1 /frame/App/index.php
+E_ERROR：Call to undefined function ll()
+
+[ 2015-12-03 09:45:12 ] 127.0.0.1 /frame/App/
+E_ERROR：Using $this when not in object context
+
+[ 2015-12-03 09:46:14 ] 127.0.0.1 /frame/App/
+E_ERROR：Call to undefined method CacheMemcached::handler()
+
+[ 2015-12-03 09:46:21 ] 127.0.0.1 /frame/App/
+E_ERROR：Call to undefined method CacheMemcached::handler()
+
+[ 2015-12-03 09:46:22 ] 127.0.0.1 /frame/App/
+E_ERROR：Call to undefined method CacheMemcached::handler()
+
+[ 2015-12-03 09:46:23 ] 127.0.0.1 /frame/App/
+E_ERROR：Call to undefined method CacheMemcached::handler()
+
+[ 2015-12-03 09:47:11 ] 127.0.0.1 /frame/App/
+E_ERROR：Class 'Memcached' not found
+
+[ 2015-12-03 09:57:57 ] 127.0.0.1 /frame/App/
+E_ERROR：Cannot access empty property
+
+[ 2015-12-03 09:57:59 ] 127.0.0.1 /frame/App/
+E_ERROR：Cannot access empty property
+
+[ 2015-12-03 09:58:19 ] 127.0.0.1 /frame/App/
+E_ERROR：Call to undefined method CacheMemcached::handler()
+

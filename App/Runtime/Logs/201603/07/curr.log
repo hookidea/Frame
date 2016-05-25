@@ -1,0 +1,9 @@
+[ 2016-03-07 12:43:30 ] 127.0.0.1 /frame/App/index.php/User/test
+E_ERROR：Call to undefined function _flush()
+
+[ 2016-03-07 22:35:06 ] 127.0.0.1 /frame/App/index.php/news/cateedit
+E_ERROR：Maximum execution time of 30 seconds exceeded
+
+[ 2016-03-07 22:36:46 ] 127.0.0.1 /frame/App/index.php/news/3
+E_ERROR：Call to undefined function tr_replace()
+

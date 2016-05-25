@@ -1,0 +1,2239 @@
+[ 2015-10-14 08:50:43 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.093740s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+SQL 2
+
+[ 2015-10-14 08:52:26 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046870s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+SQL Array2
+
+[ 2015-10-14 08:52:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+SQL 000002
+
+[ 2015-10-14 08:53:08 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046871s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR 00000
+
+[ 2015-10-14 08:55:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031247s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR 00000
+
+[ 2015-10-14 08:57:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046871s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR 00000
+
+[ 2015-10-14 08:57:07 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031248s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR 00000
+
+[ 2015-10-14 08:57:08 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046871s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR 00000
+
+[ 2015-10-14 08:58:15 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015624s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR 00000
+
+[ 2015-10-14 08:58:41 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031248s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR 00000
+
+[ 2015-10-14 08:59:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015623s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR 00000
+
+[ 2015-10-14 09:35:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031248s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.062497s ]
+
+[ 2015-10-14 09:38:02 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.093745s ]
+
+[ 2015-10-14 09:38:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.062496s ]
+
+[ 2015-10-14 09:38:43 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.062497s ]
+
+[ 2015-10-14 09:39:50 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.078121s ]
+
+[ 2015-10-14 09:40:15 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.062496s ]
+
+[ 2015-10-14 09:55:13 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 09:56:03 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2015-10-14 09:56:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 09:56:42 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031248s ]
+
+[ 2015-10-14 10:00:02 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 10:00:04 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 10:43:14 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 10:43:38 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046873s ]
+
+[ 2015-10-14 11:02:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:02:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:02:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:02:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:02:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:02:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:02:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:02:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:45 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:02:45 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:45 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:02:45 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:45 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:02:45 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:02:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:02:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:02:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:02:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:11 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:22:11 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:11 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:22:11 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:11 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:22:11 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:11 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:22:11 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:12 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:22:12 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:15 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:22:15 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:15 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:22:15 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:15 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:22:15 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:16 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:22:16 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.046874s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.046874s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:22:25 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:26 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:22:26 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:27 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:22:27 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:22:27 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:22:27 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:24:07 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:24:07 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:24:08 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:24:08 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:24:08 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:24:08 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:04 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:27:04 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:04 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015624s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:27:04 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015624s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:27:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:57 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:27:57 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:27:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:27:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:27:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:27:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:27:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:27:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:28:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:28:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:28:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:28:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:28 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:31:28 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:28 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:31:28 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:45 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:31:45 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:31:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:31:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:31:46 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:47 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:31:47 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:47 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:31:47 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:47 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:31:47 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:48 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:31:48 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:48 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:31:48 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:49 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2015-10-14 11:31:49 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:57 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:31:57 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:31:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:31:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:31:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:31:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:31:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:31:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:31:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:31:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:32:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:32:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:32:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:32:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:32:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:32:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:32:01 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:32:01 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:32:01 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:32:01 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:32:01 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:32:01 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:33:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:33:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:33:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:33:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:33:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:33:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:33:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:33:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:35:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:35:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:35:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:35:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:35:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:35:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:35:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:35:59 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:36:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:36:00 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:08 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:36:08 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:09 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:36:09 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:09 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:36:09 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:09 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:36:09 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:32 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:36:32 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:32 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:36:32 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:32 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:36:32 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:32 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2015-10-14 11:36:32 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2015-10-14 11:36:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:36:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:36:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2015-10-14 11:36:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:36:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:36:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:36:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:36:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:36:56 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:36:56 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:37:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2015-10-14 11:37:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:37:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:37:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:37:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:37:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:37:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:37:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:37:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:37:54 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:37:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:37:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:37:55 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:40:05 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:40:06 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:07 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:40:07 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:07 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.046874s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:40:07 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.046874s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:07 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+
+[ 2015-10-14 11:40:07 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046875s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:50 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:40:50 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:50 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:40:50 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:51 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:40:51 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:51 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:40:51 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:51 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:40:51 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:51 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:40:51 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:40:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:40:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:40:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:40:52 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:40:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:40:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2015-10-14 11:40:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:40:53 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:40:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:40:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:40:58 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:41:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:41:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:41:19 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.046874s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:41:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.046874s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2015-10-14 11:41:20 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015624s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:41:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031250s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:41:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:41:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:41:21 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.031249s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:41:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+
+[ 2015-10-14 11:41:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031250s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:41:22 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:29 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2015-10-14 11:41:29 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015625s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:29 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-14 11:41:29 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015625s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:29 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+
+[ 2015-10-14 11:41:29 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.046874s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:30 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:41:30 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+
+[ 2015-10-14 11:41:30 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+
+[ 2015-10-14 11:41:30 ] 127.0.0.1 /frame/APP/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.031249s ]
+ERR Undefined index: Unkown
+

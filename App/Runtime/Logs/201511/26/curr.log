@@ -1,0 +1,651 @@
+[ 2015-11-26 14:02:00 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.004000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.019001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:02:06 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.008000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.024001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:09:00 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.023001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:09:08 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.019001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:21 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.022600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.025001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:21 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.007000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.021001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:21 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.018001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:21 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.020001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:21 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.006001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:22 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.019601s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.021001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:22 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.018001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:22 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.028601s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:22 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.005000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.018001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:22 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.002000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:22 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.017600s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:23 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.018600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.019001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:23 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.018600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.021001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:23 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.030601s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:23 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.002000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:23 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.029600s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:24 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.024601s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.019001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:24 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.018001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:24 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.010000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.020001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:24 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.032601s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:27 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.019600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.022001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:27 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.016600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.020001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:11:27 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.017600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.017001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:14:36 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.017600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.018001s ]
+
+[ 2015-11-26 14:15:21 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2015-11-26 14:15:35 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-26 14:15:46 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2015-11-26 14:17:38 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.017600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.018001s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:18:36 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.002000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015001s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:18:48 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.007000s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:18:50 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.018600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.018001s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:18:51 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.010001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.010000s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:18:52 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.006001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.020001s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:19:40 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.016600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.007000s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:19:41 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.007000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.018001s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:19:51 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.005001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.019001s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:39:40 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.015600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.010001s ]
+SQL PDO的DSN没有提供
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:41:00 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.018601s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.019001s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:41:00 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.019600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.020001s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:41:05 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.009000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.018001s ]
+SQL 数据库连接失败，PDO的DSN没有提供
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:43:58 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.019600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.020002s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:44:05 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.018600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.020001s ]
+SQL 数据库连接失败，PDO的DSN没有提供
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:45:02 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.004000s ]
+RUN [ app_begin ] --START--
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 14:54:55 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.007000s ]
+RUN [ app_begin ] --START--
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 14:54:56 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.005000s ]
+RUN [ app_begin ] --START--
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 14:58:07 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.021600s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:58:09 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.018600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.019001s ]
+SQL DELETE FROM t2 WHERE  id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:58:24 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015600s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 14:58:57 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015600s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:02:04 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.007001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.020001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:02:16 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.000000s ]
+RUN [ app_begin ] --START--
+SQL 数据库连接失败，PDO的DSN没有提供
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:03:38 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.021600s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.021002s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:12:13 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.007001s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:12:51 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.004000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:12:52 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.006000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:12:52 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.009000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:12:53 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.006000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:12:53 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.004001s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:12:53 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.006000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:13:17 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.009001s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:13:23 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.009001s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:13:39 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.003000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:16:39 ] 192.168.61.38 /frame/App/
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.005000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:16:54 ] 192.168.61.38 /frame/App/
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.005001s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:29:58 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.009000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:30:08 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.005000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:30:09 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.004000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:30:09 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.005000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:30:32 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.002000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:30:33 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.007000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:30:34 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.006000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:30:34 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.004000s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:30:54 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.002001s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:30:54 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.010001s ]
+RUN [ app_begin ] --START--
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+ERR Call to a member function prepare() on a non-object
+
+[ 2015-11-26 15:32:19 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.005001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.012000s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:34:37 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.002001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015000s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:34:45 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.002000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.015001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:34:46 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.006001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.016000s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:34:49 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.009000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.012001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:38:27 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.009001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.027001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:39:15 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.010000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.028002s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:40:05 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.009001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.013001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:43:16 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.010000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.012001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:46:32 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.007001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.011000s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:46:33 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.008001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.026001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:46:33 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.006000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.022002s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:46:33 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.005000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.006000s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:47:43 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.007001s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.012001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
+[ 2015-11-26 15:50:10 ] 127.0.0.1 /frame/App/index.php
+RUN [ route_begin ] --START--
+RUN [ route_end ] --END-- [ RunTime:0.008000s ]
+RUN [ app_begin ] --START--
+RUN [ app_end ] --END-- [ RunTime:0.009001s ]
+SQL SELECT * FROM t2 WHERE id IN (:w_id0,:w_id1,:w_id2,:w_id3,:w_id4,:w_id5)
+
